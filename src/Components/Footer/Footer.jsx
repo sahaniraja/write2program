@@ -94,7 +94,7 @@ const Footer = () => {
         <div className="container">
           <div className="row">
             <div className="col-lg-12 text-center">
-              <p className="mb-0">©Copyright {new Date().getFullYear()} <a href="/">W2P IT Solutions & Services</a> All Rights Reserved.</p>
+              <p className="mb-0">©Copyright {new Date().getFullYear()} <a href="/">W2P IT Software</a> All Rights Reserved.</p>
             </div>
           </div>
         </div>
