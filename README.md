@@ -1,4 +1,4 @@
-### W2P IT Solutions & Services ###
+### W2P IT Software ###
 Software Solutions & Services we take pride in helping our clients deliver marvelous results when it comes to their projects. From data to performance, we’ve got you covered.
 
 1) Web Development
