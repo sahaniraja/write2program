@@ -1,34 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.8777fe39.css",
-    "main.js": "/static/js/main.e7f85f76.js",
+    "main.js": "/static/js/main.90ea3e6a.js",
     "static/js/787.36716c25.chunk.js": "/static/js/787.36716c25.chunk.js",
-    "static/media/nodejs_logo.png": "/static/media/nodejs_logo.290f630040630c5948b6.png",
-    "static/media/codeigniter_logo.png": "/static/media/codeigniter_logo.6a27a763481c5c16df5b.png",
-    "static/media/laravel_logo.png": "/static/media/laravel_logo.2ebf4db3cc9f1b431979.png",
-    "static/media/golang_logo.png": "/static/media/golang_logo.f15ba9f78e8afab59625.png",
-    "static/media/flask_logo.png": "/static/media/flask_logo.a513ea1d978a3bef2c16.png",
-    "static/media/django_logo.png": "/static/media/django_logo.1b75f40cdc0d09bb3426.png",
-    "static/media/react_logo.png": "/static/media/react_logo.20adfb35ae6a6e5817bf.png",
     "static/media/glyphicons-halflings-regular.woff2": "/static/media/glyphicons-halflings-regular.01d34d76dfd3ea1de1b1.woff2",
     "static/media/glyphicons-halflings-regular.svg": "/static/media/glyphicons-halflings-regular.52a77cb6a0de5f07146f.svg",
     "static/media/glyphicons-halflings-regular.eot": "/static/media/glyphicons-halflings-regular.765b34786fe6a8031244.eot",
     "static/media/glyphicons-halflings-regular.woff": "/static/media/glyphicons-halflings-regular.a9d9549b094bb3cfb3e3.woff",
     "static/media/glyphicons-halflings-regular.ttf": "/static/media/glyphicons-halflings-regular.c2261252733ac6d2d8b2.ttf",
-    "static/media/python_logo.png": "/static/media/python_logo.f7f12e1bf59e577656a2.png",
-    "static/media/vue_logo.png": "/static/media/vue_logo.b9514adc255abb8f0638.png",
     "static/media/home_logo.png": "/static/media/home_logo.8d4fbee26fe29e7790bd.png",
-    "static/media/php_logo.png": "/static/media/php_logo.0a564540c19c7189202e.png",
     "static/media/fontawesome.woff": "/static/media/fontawesome.689f7dcedce1419719ad.woff",
     "index.html": "/index.html",
     "static/media/fontello.woff": "/static/media/fontello.f7a0326babab96e5023f.woff",
     "static/media/external-link-icon.svg": "/static/media/external-link-icon.e091ac5d34b92c56fe4f.svg",
     "main.8777fe39.css.map": "/static/css/main.8777fe39.css.map",
-    "main.e7f85f76.js.map": "/static/js/main.e7f85f76.js.map",
+    "main.90ea3e6a.js.map": "/static/js/main.90ea3e6a.js.map",
     "787.36716c25.chunk.js.map": "/static/js/787.36716c25.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8777fe39.css",
-    "static/js/main.e7f85f76.js"
+    "static/js/main.90ea3e6a.js"
   ]
 }
